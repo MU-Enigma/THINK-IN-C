@@ -1,0 +1,45 @@
+Flowchart Practice
+
+Create a flowchart for the following scenarios. Maximum 2 flowcharts per page and each flowchart should have a title. The first scenario is done as an example.
+
+Scenario 1:
+You listen to the weather report
+If it is raining you will get a drive to school
+If it is not raining you will take the bus
+
+Scenario 2:
+You check the traffic news
+If there is a lot of traffic, you take the subway
+Otherwise, you take the car
+
+Scenario 3:
+Read 2 numbers as input
+Add the two numbers
+Output the result
+
+Scenario 4:
+You approach the counter at a fast food restaurant to order a burger
+If you are very hungry, you will also order fries, otherwise, you will not
+If you are thirsty, you will order a drink, otherwise you will not
+You then pay the cashier
+If you deserve change, you pick up your change, otherwise you do not
+You then pick up your food and leave
+
+Scenario 5:
+Read 3 numbers as input
+Add the first 2 numbers
+Multiply the result by the third number
+Output the final result if it is greater than 100
+Otherwise output the first number
+
+BONUS Scenario:
+Draw a flowchart to find the largest of three numbers A, B, and C.
+
+Scenario 1:
+You listen to the weather report
+If it is raining you will get a drive to school
+If it is not raining you will take the bus
+
+
+
+Source: www.pearsonci.net

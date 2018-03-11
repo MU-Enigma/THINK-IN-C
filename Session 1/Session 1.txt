@@ -1,0 +1,11 @@
+Session 1:
+
+# Introduction to Problem Solving through code
+1) Use cases of coding in day to day life.
+2) Viewing sample codes for interesting examples.
+3) Why coding is important for other branches of engineering.
+
+# Algorithms and Flowcharts
+1) How to draw Flowcharts.
+2) How to write algorithms.
+3) Examples.
