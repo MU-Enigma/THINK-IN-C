@@ -1,0 +1,9 @@
+Assignment:
+Make a simple calculator that uses the switch case.
+
+There should be operations for 2 variables, num_1 and num_2. 
+Use numbers for the switch condition, which is defined as follows.
+
+1 for addition, 2 for subtraction, 3 for multiplication and 4 for division.
+
+The user must choose 1-4 and must supply the two variables in order to get the result.
