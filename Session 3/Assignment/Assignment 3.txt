@@ -1,0 +1,5 @@
+Assignment 3:
+
+1) Fibonacci series
+2) Prime or not?
+3) Prime or not? (using Recursion)

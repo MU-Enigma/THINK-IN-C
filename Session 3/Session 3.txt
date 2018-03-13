@@ -1,0 +1,11 @@
+Session 3:
+
+# Functions
+1) Scope
+2) Syntax
+3) Order of passing variables
+4) Return
+
+# Recursion
+1) Syntax
+2) Example
