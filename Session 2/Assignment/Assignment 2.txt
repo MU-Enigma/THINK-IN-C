@@ -7,3 +7,10 @@ Use numbers for the switch condition, which is defined as follows.
 1 for addition, 2 for subtraction, 3 for multiplication and 4 for division.
 
 The user must choose 1-4 and must supply the two variables in order to get the result.
+
+
+Hint:
+Output:
+1.Input two variables from user\
+2.Then, ask user to choose the operation as indicating int or char
+3.Show the results
